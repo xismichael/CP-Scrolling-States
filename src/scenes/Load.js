@@ -10,7 +10,7 @@ class Load extends Phaser.Scene {
             frameWidth: 32,
             frameHeight: 32,
         })
-        this.load.image('desert', 'desert.jpg')
+        this.load.image('map', 'map-scroll.jpg')
     }
 
     create() {

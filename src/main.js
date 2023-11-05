@@ -1,4 +1,4 @@
-// Example 03: Machines
+// Example 03: Scrolling States
 // Name:
 // Date: 
 
