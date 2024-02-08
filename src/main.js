@@ -1,4 +1,4 @@
-// Example 03: Scrolling States
+// Code Practice: Scrolling States
 // Name:
 // Date: 
 
