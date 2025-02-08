@@ -1,6 +1,6 @@
 // Code Practice: Scrolling States
-// Name:
-// Date: 
+// Name: Michael Xi
+// Date: Feb 7 2025
 
 'use strict'
 
@@ -17,7 +17,7 @@ const config = {
             debug: true
         }
     },
-    scene: [ Load, Play ]
+    scene: [Load, Play]
 }
 
 const game = new Phaser.Game(config)
